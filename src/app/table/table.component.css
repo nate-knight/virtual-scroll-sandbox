@@ -1,0 +1,21 @@
+table {
+  width: 100%;
+}
+cdk-virtual-scroll-viewport {
+  height: 100%;
+}
+.viewport-container {
+  /* height: 240px; */
+  border: 1px solid green;
+  flex: 1;
+}
+.flex-wrapper {
+  /* height: 350px; */
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.outer {
+  height: 240px;
+  border: 1px solid brown;
+}
